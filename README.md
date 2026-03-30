@@ -1,4 +1,4 @@
-<img width="1107" height="941" alt="image" src="https://github.com/user-attachments/assets/2a5b0f4b-b805-4d88-92c6-74d01ccda9ba" /># 🚢 Titanic Survival Predictor
+ 🚢 Titanic Survival Predictor
 
 A Machine Learning project that predicts whether a passenger would survive the Titanic disaster using **Pandas, NumPy, Scikit-learn, and Matplotlib**, with an interactive **Streamlit web app**.
 
