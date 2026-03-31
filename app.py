@@ -7,6 +7,11 @@ import joblib
 model = joblib.load("survival_prediction_model.jb")
 
 scaler = joblib.load("scaler.jb")
+st.set_page_config(
+    page_title="Life Line Prediction  App",
+    page_icon="Survival.png"
+)
+
 
 st.title("🚢 Titanic Survival Predictor")
 
